@@ -1,9 +1,9 @@
-Building Bitcoin
+Building Borgcoin
 
-See doc/readme-qt.rst for instructions on building Bitcoin-Qt,
+See doc/readme-qt.rst for instructions on building Borgcoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Bitcoin.
+implementation of Borgcoin.
 
-See doc/build-*.txt for instructions on building bitcoind,
+See doc/build-*.txt for instructions on building borgcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Bitcoin.
+implementation of Borgcoin.
