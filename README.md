@@ -1,8 +1,5 @@
 Borgcoin integration/staging tree
 ================================
-
-http://www.coingen.io
-
 Copyright (c) 2009-2013 Bitcoin Developers
 
 What is Borgcoin?
@@ -13,9 +10,6 @@ anyone, anywhere in the world. Borgcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Borgcoin is also the name of the open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Borgcoin client software, see http://www.coingen.io.
 
 License
 -------
@@ -73,8 +67,7 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 Every pull request is built for both Windows and Linux on a dedicated server,
 and unit and sanity tests are automatically run. The binaries produced may be
 used for manual QA testing — a link to them will appear in a comment on the
-pull request posted by [BitcoinPullTester](https://github.com/BitcoinPullTester). See https://github.com/TheBlueMatt/test-scripts
-for the build/test scripts.
+pull request posted by [BitcoinPullTester](https://github.com/BitcoinPullTester).
 
 ### Manual Quality Assurance (QA) Testing
 
