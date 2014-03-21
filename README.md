@@ -60,9 +60,9 @@ Unit tests for the core code are in `src/test/`. To compile and run them:
 
 Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
+    qmake BORGCOIN_QT_TEST=1 -o Makefile.test borgcoin-qt.pro
     make -f Makefile.test
-    ./bitcoin-qt_test
+    ./borgcoin-qt_test
 
 Every pull request is built for both Windows and Linux on a dedicated server,
 and unit and sanity tests are automatically run. The binaries produced may be
